@@ -162,9 +162,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @misc{instruction-hierarchy-2024,
   title={Mechanistic Interpretability of Instruction Hierarchy in Language Models},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/instruction-hierarchy}
+  author={Anusha Mujumdar},
+  year={2026},
+  url={https://github.com/anushabuilds/latent-instruction-hierarchies.git}
 }
 ```
 
@@ -172,20 +172,19 @@ If you use this code in your research, please cite:
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## Contributing
+<!-- ## Contributing
 
 Contributions are welcome! Please:
 1. Fork the repository
 2. Create a feature branch
 3. Add tests for new functionality
-4. Submit a pull request
+4. Submit a pull request -->
 
 ## Acknowledgments
 
 - Built with [Transformers](https://huggingface.co/transformers/) by Hugging Face
-- Inspired by mechanistic interpretability research from Anthropic and others
 - Uses [Gemma](https://ai.google.dev/gemma) models from Google
 
 ## Contact
 
-For questions or collaborations, please open an issue or contact [your.email@example.com](mailto:your.email@example.com).
+For questions or collaborations please open an issue.
